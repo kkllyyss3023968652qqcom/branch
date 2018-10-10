@@ -1,0 +1,7 @@
+git branch   查看分支（不传递参数时）
+git branch     +分支名	   创建了一条分支
+git branch -d  +分支名     删除分支
+
+切换分支：
+git checkout +分支名
+（内容更改时，要先重新add -A,commit -m，再切换）
